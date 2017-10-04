@@ -1,4 +1,4 @@
-# Resize Image Execution Time
+# Resize Image Execution Time PHP - Redimensionar o tempo de execução da imagem em PHP 
 Resize Image in Execution Time PHP
 
 Redimencionar imagens e diminuir qualidade em tempo de execução:
